@@ -1,7 +1,7 @@
-To Do List App
+# **To Do App**
 
-Instructions to start app:
+# Start app
 
-git clone
+`git clone https://github.com/sukelly/htmljscssexercise.git
 cd htmljscssexercse/todo
-python3 -m http.server
+python3 -m http.server`
