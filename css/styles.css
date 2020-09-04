@@ -1,0 +1,25 @@
+td {
+    border: 1px solid black;
+}
+
+table {
+    table-layout: fixed;
+    width: 30%;
+}
+
+tr {
+    text-align: center;
+}
+
+tr:nth-child(odd) td {
+    background-color: #ced4ff;
+}
+
+tr:nth-child(even) td{
+    background: #fbffe6;
+}
+
+#todoAdd {
+    margin: 15px 0px;
+}
+
